@@ -1,7 +1,7 @@
 timespan
 ========
 
-[![Go Reference](https://pkg.go.dev/github.com/maxxant/timespan.svg)](https://pkg.go.dev/github.com/maxxant/timespan)
+[![Go Reference](https://pkg.go.dev/badge/github.com/maxxant/timespan.svg)](https://pkg.go.dev/github.com/maxxant/timespan)
 
 timespan is a [Go](http://golang.org/) library for interacting with intervals of time, defined as a start time and a duration.
 
